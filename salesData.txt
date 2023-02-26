@@ -1,0 +1,17 @@
+2023-02-22
+23:54:33.128043
+Main$Chocolate@355da254
+Main$RedVelvet@4dc63996
+Main$Soda@d716361
+Main$Drink@6ff3c5b5
+2023-02-22
+23:55:36.741691
+Main$RedVelvet@355da254
+Main$Cupcake@4dc63996
+Main$Chocolate@d716361
+Main$Milk@6ff3c5b5
+2023-02-26
+18:19:40.228530
+Main$Drink@355da254
+Main$RedVelvet@4dc63996
+Main$Chocolate@d716361
